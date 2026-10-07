@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+HEIC_Converter_Build/
+HEIC_Converter_Final/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Build artifacts
+build/
+dist/
+*.exe
+*.msi
+*.zip
+
+# Temporary files
+*.tmp
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project specific
+releases/*.exe
+releases/*.zip
